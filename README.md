@@ -1,5 +1,9 @@
 # graproxy
+
+
 **DEPRECATED:** using Grafana OAuth Authentication is recommended.
+
+
 simple implementation for grafana auth.proxy with openid
 
 ## grafana config example
